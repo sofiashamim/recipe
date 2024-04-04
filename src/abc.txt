@@ -1,0 +1,15 @@
+https://api.edamam.com/search?q='pizza'&app_id=d47fcf57&app_key=6b42ab7e6e9275c1dee466e8b435bb7d
+
+application id= d47fcf57
+key = 6b42ab7e6e9275c1dee466e8b435bb7d
+
+Useeffect hook is used to run side effect such as :
+fetching api, 
+updating the dom,
+it takes 2 parameters- first is a callback function and- second is aarray of dependency.
+
+If array of dependency is blank useeefect will run only one time.
+If we write a variable inside the array of dependency then the useeffect will render to update the function till that variable.
+
+We can convert a API into dynamic data by using backticks or curly-braces.Another way of converting into dynamic data is by using $ sign before curly-braces and in that curly braces write the keyword which you want to use to change the search options.
+Dynamic data=?

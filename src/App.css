@@ -1,0 +1,11 @@
+#viewRecipebtn{
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 120px;
+    margin-left: 50px;
+   margin-top: 50px;
+   
+
+}
