@@ -13,3 +13,5 @@ If we write a variable inside the array of dependency then the useeffect will re
 
 We can convert a API into dynamic data by using backticks or curly-braces.Another way of converting into dynamic data is by using $ sign before curly-braces and in that curly braces write the keyword which you want to use to change the search options.
 Dynamic data=?
+
+news api https://newsapi.org/v2/everything?q=bitcoin&apiKey=70a1741fb28842f2b7225ba24e0be5ba

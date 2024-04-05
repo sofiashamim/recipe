@@ -17,7 +17,7 @@ function App() {
   
 
   return (
-    <div c lassName="App">
+    <div className="App">
      <BrowserRouter>
      <Navbar/>
      <Routes>
